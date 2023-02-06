@@ -1,0 +1,65 @@
+{"level":"debug","time":"2023-01-19T12:22:03+05:30","message":"log redis"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-19T12:22:09+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"debug","time":"2023-01-19T12:23:38+05:30","message":"log redis"}
+{"level":"debug","time":"2023-01-19T12:25:20+05:30","message":"log redis"}
+{"level":"debug","time":"2023-01-19T12:27:00+05:30","message":"log redis"}
+{"level":"debug","time":"2023-01-19T12:32:52+05:30","message":"log redis"}
+{"level":"debug","time":"2023-01-19T12:33:58+05:30","message":"log redis"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-19T12:50:06+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-19T12:53:33+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-19T13:21:40+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-19T13:26:21+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-19T13:26:31+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-19T13:49:50+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-19T13:55:49+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-19T13:57:11+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"debug","time":"2023-01-19T13:57:11+05:30","message":"illegal base64 data at input byte 89"}
+{"level":"error","RequestURI":"/api/lead_managements/lead_list","time":"2023-01-19T13:57:11+05:30","message":"JWT auth errors"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-19T13:57:18+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-19T13:59:03+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-19T14:00:28+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-19T14:55:33+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-19T14:55:49+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-19T14:59:22+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-19T15:11:13+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-19T15:12:14+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-19T15:12:25+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-19T15:17:00+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-19T15:19:15+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-19T15:25:44+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-20T19:18:49+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-20T19:19:03+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-23T11:19:06+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"debug","time":"2023-01-23T11:19:06+05:30","message":"Token is expired"}
+{"level":"error","RequestURI":"/api/lead_managements/lead_list","time":"2023-01-23T11:19:06+05:30","message":"JWT auth errors"}
+{"level":"info","method":"POST","url":"/api/get-token","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-23T11:19:11+05:30","message":"{\n    \"email\":\"astha@healthians.com\",\n    \"password\":\"test\"\n}"}
+{"level":"info","time":"2023-01-23T11:19:11+05:30","message":"astha@healthians.com"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-23T11:19:27+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"error","leadSource":"data not found","time":"2023-01-23T11:19:27+05:30","message":"redis: nil"}
+{"level":"error","leadSource":"set data","time":"2023-01-23T11:19:27+05:30","message":"0000"}
+{"level":"error","disposition_list":"data not found","time":"2023-01-23T11:19:27+05:30","message":"redis: nil"}
+{"level":"error","disposition_list":"set data","time":"2023-01-23T11:19:27+05:30","message":"0000"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-23T11:22:33+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-23T11:22:59+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-23T11:29:58+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-23T11:30:53+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"error","leadSource":"data not found","time":"2023-01-23T11:30:53+05:30","message":"redis: nil"}
+{"level":"error","leadSource":"set data","time":"2023-01-23T11:30:54+05:30","message":"0000"}
+{"level":"error","disposition_list":"data not found","time":"2023-01-23T11:30:54+05:30","message":"redis: nil"}
+{"level":"error","disposition_list":"set data","time":"2023-01-23T11:30:54+05:30","message":"0000"}
+{"level":"info","method":"GET","url":"/api/lead_managements/lead_list","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-23T11:31:01+05:30","message":"{\n    \"field1\":\"first_name\",\n    \"value1\":\"8882311226\",\n    \"lead_date1\":\"2023-01-13\",\n    \"offset\":0,\n    \"limit\":5\n}"}
+{"level":"info","method":"GET","url":"/api/lead_managements/getAgentOnHoldBookings","user_agent":"PostmanRuntime/7.30.0","time":"2023-01-25T16:52:47+05:30"}
+{"level":"info","method":"POST","url":"/api/get-token","user_agent":"PostmanRuntime/7.30.0","time":"2023-02-01T11:38:52+05:30","message":"{\n    \"email\":\"astha@healthians.com\",\n    \"password\":\"test\"\n}"}
+{"level":"info","time":"2023-02-01T11:38:52+05:30","message":"astha@healthians.com"}
+{"level":"info","method":"GET","url":"/api/check","user_agent":"PostmanRuntime/7.30.0","time":"2023-02-01T11:39:15+05:30"}
+{"level":"error","leadSource":"data not found","time":"2023-02-01T11:39:15+05:30","message":"redis: nil"}
+{"level":"error","leadSource":"set data","time":"2023-02-01T11:39:15+05:30","message":"0000"}
+{"level":"info","time":"2023-02-01T11:39:15+05:30","message":"data comes from database"}
+{"level":"info","method":"GET","url":"/api/check","user_agent":"PostmanRuntime/7.30.0","time":"2023-02-01T11:40:14+05:30"}
+{"level":"info","time":"2023-02-01T11:40:14+05:30","message":"data comes from Redis cache"}
+{"level":"info","method":"POST","url":"/api/get-token","user_agent":"PostmanRuntime/7.30.0","time":"2023-02-01T11:41:10+05:30","message":"{\n    \"email\":\"astha@healthians.com\",\n    \"password\":\"test\"\n}"}
+{"level":"info","time":"2023-02-01T11:41:10+05:30","message":"astha@healthians.com"}
+{"level":"info","method":"POST","url":"/api/get-token","user_agent":"PostmanRuntime/7.30.0","time":"2023-02-01T11:42:43+05:30","message":"{\n    \"email\":\"astha@healthians.com\",\n    \"password\":\"test\"\n}"}
+{"level":"info","time":"2023-02-01T11:42:43+05:30","message":"astha@healthians.com"}
+{"level":"info","method":"GET","url":"/api/check","user_agent":"PostmanRuntime/7.30.0","time":"2023-02-01T11:43:03+05:30"}
+{"level":"info","time":"2023-02-01T11:43:03+05:30","message":"=============>data comes from Redis cache"}

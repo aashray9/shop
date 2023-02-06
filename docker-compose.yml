@@ -1,0 +1,28 @@
+version: "3.7"
+services:
+  lms-dev:
+    container_name: lms
+    build:
+      dockerfile: Dockerfile
+      context: .
+      args:
+        - GO_VERSION=1.19.2
+        - OS=${GOOS}
+        - CGO=${CGO_ENABLED}
+        - ARCH=${GOARCH}
+    ports:
+      - 3000:3000
+    restart: unless-stopped
+  lms:
+    container_name: lms
+    build:
+      dockerfile: Dockerfile
+      context: .
+      args:
+        - GO_VERSION=1.19.2
+        - OS=${GOOS}
+        - CGO=${CGO_ENABLED}
+        - ARCH=${GOARCH}
+    ports:
+      - 3000:3000
+    restart: unless-stopped
